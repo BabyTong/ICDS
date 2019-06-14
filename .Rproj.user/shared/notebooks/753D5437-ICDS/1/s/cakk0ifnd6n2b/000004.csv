@@ -1,0 +1,7 @@
+"0","require(graphite)"
+"0","require(org.Hs.eg.db)"
+"0","subpID<-unlist(strsplit(""G6PC/HK3/GPI/FBP1/ALDOA/G6PC2"",""/""))"
+"0","pathway.name=""Glycolysis / Gluconeogenesis"""
+"0","zzz<- GetExampleData(""zzz"")"
+"2","Error in GetExampleData(""zzz"") : could not find function ""GetExampleData""
+"

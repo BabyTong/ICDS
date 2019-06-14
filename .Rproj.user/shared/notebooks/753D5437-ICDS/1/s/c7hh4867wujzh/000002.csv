@@ -1,0 +1,5 @@
+"0","library(ICDS)"
+"0","# obtain the expression profile data"
+"0","exp_data<-GetExampleData(""exp_data"")"
+"0","#view first six rows and six colmns of data"
+"0","exp_data[1:6, 1:6]"
